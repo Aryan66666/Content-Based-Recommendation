@@ -12,6 +12,7 @@ Limitations:
 Limited Dataset for Recommendations: The system can only recommend products based on a predefined set of products within the dataset.
 Similarity Threshold Sensitivity: A suitable similarity threshold is crucial to ensure recommendations are relevant across different product categories.
 Web Tracking Scope: The current web tracking functionality supports a single tab or window, limiting its ability to track multiple tabs or windows.
+
 Future Work:
 Automation: Automate the data collection process so that the system scrapes products daily at a specified time.
 Enhanced Recommendation Techniques: Implement collaborative filtering to incorporate user behavior and enhance the recommendation process, making it more personalized.
